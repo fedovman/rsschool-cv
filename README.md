@@ -1,1 +1,1 @@
-https://fedovman.github.io/rsschool-cv/cv
+https://fedovman.github.io/rsschool-cv/
